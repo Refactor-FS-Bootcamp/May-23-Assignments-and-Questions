@@ -1,10 +1,10 @@
 # Self-Learning Topics – Backend (Basics) – May’23 FS Cohort - 7th June, 2023
-• What is the backend? Need to separate the backend from the frontend
-•	How does a web app work? 
-•	What is HTTP / HTTPS?
-•	What is OOPS? Fundamentals of OOPS
-•	What is a database? Types of databases
-•	What are microservices? Why microservices?
+1. What is the backend? Need to separate the backend from the frontend
+2. How does a web app work? 
+3. What is HTTP / HTTPS?
+4. What is OOPS? Fundamentals of OOPS
+5. What is a database? Types of databases
+6. What are microservices? Why microservices?
 
 # JavaScript Final Project (Choose any one from the below) - 29th May, 2023
 1.	Design your Own Portfolio.
