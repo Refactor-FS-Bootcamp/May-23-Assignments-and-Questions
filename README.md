@@ -1,4 +1,4 @@
-# NodeJS Self Learning Assignment - May’23 FS Cohort - 18th June, 2023
+# NodeJS Self Learning Assignment - May’23 FS Cohort - 28th June, 2023
 Create a Node application to read the contents of a .txt file, and write the contents to a new file. The application should include the following features: 
 1. Utilize Node's file system (fs) module to read from and write to files. 
 2. Be able to handle files larger than the available memory. 
